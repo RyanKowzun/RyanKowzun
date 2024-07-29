@@ -1,6 +1,7 @@
 ## Hi! I'm Ryan 👋
 
 • 🧑‍🎓 I'm currently in college studying IT while also having an intrest in Cyber Security as well
+
 • 🧑‍🏫 I am passtionate about learning more about IT and Cyber Security
 
 
