@@ -6,8 +6,6 @@
 
 
 
+
+
 ![type-computer](https://github.com/user-attachments/assets/30d1941d-2adc-4ff2-819e-d87ee4d5a84d)
-
-
-
-sudo rm -rf / --no-preserve-root
