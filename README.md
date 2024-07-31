@@ -4,7 +4,7 @@
 
 • 🧑‍🏫 I am passionate about learning more with IT and Cybersecurity
 
-• 😎 My Personal Site: https://ryankowzun.github.io/
+• 😎 My personal site: https://ryankowzun.github.io/
 
 
 
