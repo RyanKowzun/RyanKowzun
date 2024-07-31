@@ -2,7 +2,7 @@
 
 • 🧑‍🎓 I'm currently in college studying IT while also having an interest in Cybersecurity as well
 
-• 🧑‍🏫 I am passionate about learning more about IT and Cybersecurity
+• 🧑‍🏫 I am passionate about learning more with IT and Cybersecurity
 
 
 
